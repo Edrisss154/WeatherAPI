@@ -79,7 +79,7 @@
 ---
 
 ## **ارتباط با من**
-- **ایمیل:** [edeisss14@gmail.com](mailto:your-email@example.com)
+- **ایمیل:** [edrisss14@gmail.com](mailto:your-email@example.com)
 - **گیت‌هاب:** [Edrisss154](https://github.com/Edrisss154)
 
 ---
