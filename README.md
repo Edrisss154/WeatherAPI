@@ -33,8 +33,8 @@
 ### 2. **نصب و راه‌اندازی**
 1. **کلون کردن مخزن**
    ```bash
-   git clone https://github.com/Edrisss154/telegram-weather-bot.git
-   cd telegram-weather-bot
+   git clone https://github.com/Edrisss154/WeatherAPI.git
+   cd WeatherAPI
    ```
 
 2. **نصب وابستگی‌ها**
