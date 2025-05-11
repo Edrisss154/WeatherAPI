@@ -2,11 +2,11 @@ const TelegramBot = require('node-telegram-bot-api');
 const axios = require('axios');
 
 // توکن خود
-const TELEGRAM_TOKEN = '7966505872:AAFAl4N-EyySEUziwjMTFR3GGO2tJiuXxnc';
+const TELEGRAM_TOKEN = ' TELEGRAM_TOKEN';
 const bot = new TelegramBot(TELEGRAM_TOKEN, { polling: true });
 
 // جایگزین کردن با API Key خود از WeatherAPI
-const WEATHER_API_KEY = 'ec4c632bae0d4ddea60195343241911';
+const WEATHER_API_KEY = 'WEATHER_API_KEY';
 
 const getWeather = async (city) => {
   try {
